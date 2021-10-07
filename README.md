@@ -11,7 +11,7 @@ I intend to learn React after I'm done with my project.
 
 📫 How to reach me: florent.feugere@gmail.com
 
-<a align="center" href="https://app.daily.dev/Neiloe"><img src="https://github.com/FloFeu/FloFeu/blob/main/devcard.svg" width="400" alt="Florent Feugere's Dev Card"/></a>
+<a href="https://app.daily.dev/Neiloe"><img align="center" src="https://github.com/FloFeu/FloFeu/blob/main/devcard.svg" width="400" alt="Florent Feugere's Dev Card"/></a>
 
 
 <!--
