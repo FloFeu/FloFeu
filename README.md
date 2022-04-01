@@ -3,10 +3,6 @@ Hello ✌️! My name is Florent, I used to be a baker, and now I'm learning web
 I'm 28 and live near Paris.
 You can find here most of the projects I worked on while learning web dev. 
 
-🌱 I’m currently working on a project aiming to create a database to keep tracks on the video games I played, allowing me to learn Vue deeper.🌱
-
-I intend to learn React after I'm done with my project.
-
 😄 Pronouns: He/Him
 
 📫 How to reach me: florent.feugere@gmail.com
